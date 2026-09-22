@@ -1,0 +1,32 @@
+mode = "light"
+
+# Limestone, river blue, and park trees in daylight.
+accent = "#2d648d"
+selection = "#d6e3e9"
+muted = "#84949a"
+
+background = "#f5f1e8"
+dark_background = "#eae7df"
+darker_background = "#dddcd5"
+lighter_background = "#e6ecec"
+
+foreground = "#24343d"
+dark_foreground = "#5d6d76"
+light_foreground = "#354b55"
+bright_foreground = "#172830"
+
+red = "#a94f4e"
+yellow = "#806117"
+orange = "#9f552f"
+green = "#4e713c"
+cyan = "#286f77"
+blue = "#2d648d"
+magenta = "#87546e"
+brown = "#765941"
+
+bright_red = "#b0514d"
+bright_yellow = "#88651b"
+bright_green = "#4b7039"
+bright_cyan = "#226f75"
+bright_blue = "#326b94"
+bright_magenta = "#985b79"
